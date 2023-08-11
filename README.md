@@ -1,4 +1,6 @@
-Hello! I am currently leading a Data Science team at Rivian, focusing on ML & analytics for batteries. Prior to Rivian, I spent a little over 4 years at Toyota Research Institute (TRI) as a [researcher](https://github.com/MuratAykol-TRI). 
+Hello! I am currently a Research Scientist at Google DeepMind.
+
+Previously, I led a Data Science team at Rivian, focusing on ML & analytics for batteries. Prior to Rivian, I spent a little over 4 years at Toyota Research Institute (TRI) as a [researcher](https://github.com/MuratAykol-TRI). 
 
 Most of my [recent published work](https://scholar.google.com/citations?user=7JNUMRAAAAAJ&hl=en&oi=ao) is centered on combining machine learning with physics and chemistry to accelerate R&D. Among a few, these two deserve the spotlight as open-source Python libraries:
 
